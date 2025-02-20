@@ -80,7 +80,7 @@ Other:
 Do you use Open-Meteo? Please open a pull request and add your repository or app to the list!
 
 ## Client SDKs
-- Go https://github.com/HectorMalot/omgo
+- Go https://github.com/dio-av/omgo
 - Python https://github.com/m0rp43us/openmeteopy
 - Kotlin https://github.com/open-meteo/open-meteo-api-kotlin
 - .Net / C# https://github.com/AlienDwarf/open-meteo-dotnet
